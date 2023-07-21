@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://osama2kabdullah.github.io/personal_web_page/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://osama2kabdullah.github.io/personal_web_page/</loc>
+</url>
+<url>
+<loc>https://osama2kabdullah.github.io/personal_web_page/about-me.html</loc>
+<lastmod>2023-07-20T19:00:04+06:00</lastmod>
+</url>
+<url>
+<loc>https://osama2kabdullah.github.io/personal_web_page/how-ai-assist-me-when-i-feel-sad-a-conversation.html</loc>
+<lastmod>2023-07-20T19:09:35+06:00</lastmod>
+</url>
+<url>
+<loc>https://osama2kabdullah.github.io/personal_web_page/shopify-theme-customization.html</loc>
+<lastmod>2023-07-20T19:12:36+06:00</lastmod>
+<image:image>
+<image:loc>https://osama2kabdullah.github.io/personal_web_page/media/posts/3/storm-1.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

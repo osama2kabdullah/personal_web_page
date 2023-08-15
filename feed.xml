@@ -3,12 +3,94 @@
     <title>Osama</title>
     <link href="https://osama2kabdullah.github.io/personal_web_page/feed.xml" rel="self" />
     <link href="https://osama2kabdullah.github.io/personal_web_page" />
-    <updated>2023-07-20T19:12:36+06:00</updated>
+    <updated>2023-08-16T00:05:20+06:00</updated>
     <author>
         <name>Osama Abdullah</name>
     </author>
     <id>https://osama2kabdullah.github.io/personal_web_page</id>
 
+    <entry>
+        <title>How I made 5k BDT using Chat GPT within only 5 hours</title>
+        <author>
+            <name>Osama Abdullah</name>
+        </author>
+        <link href="https://osama2kabdullah.github.io/personal_web_page/how-i-made-5k-bdt-using-chat-gpt-within-only-5-hours.html"/>
+        <id>https://osama2kabdullah.github.io/personal_web_page/how-i-made-5k-bdt-using-chat-gpt-within-only-5-hours.html</id>
+
+        <updated>2023-08-16T00:05:20+06:00</updated>
+            <summary>
+                <![CDATA[
+                    I am a Web developer. Recently I found a project from a University student. He was assigned to build a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    I am a Web developer. Recently I found a project from a University student. He was assigned to build a simple website using HTML and CSS. So, after that he reach out to me, then I build the project for him. Basically he do a job, he do not manage enough time to complete this project. So, lets see how I complete the project using chat GPT. Here I give some screenshot of my chat history. Then I attached the final output of the project.
+  </p>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/4/gallery/Screenshot-2023-08-15-at-23-49-02-ChatGPT-2.png" data-size="274x602">
+        <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/4/gallery/Screenshot-2023-08-15-at-23-49-02-ChatGPT-2-thumbnail.png" height="602" width="274" alt="Starting" >
+      </a>
+      <figcaption>Starting</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/4/gallery/Screenshot-2023-08-15-at-23-50-47-ChatGPT-2.png" data-size="264x609">
+        <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/4/gallery/Screenshot-2023-08-15-at-23-50-47-ChatGPT-2-thumbnail.png" height="609" width="264" alt="Repeatetive work" >
+      </a>
+      <figcaption>Repeatetive work</figcaption>
+    </figure>
+    </div>
+  </div>
+
+  <p>
+    In the above I attached two screenshot of chat history.
+  </p>
+
+  <p>
+    After completing the project, I realise, AI not replace us. AI boost our productivity. Using&nbsp; AI, we can finish our task 10 times fast. Normally eaveryday I use AI for getting fast output.
+  </p>
+
+  <p>
+    Here is the final out put of the project.
+  </p>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/4/gallery/Screenshot-2023-08-15-at-23-58-43-Home.png" data-size="1366x3604">
+        <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/4/gallery/Screenshot-2023-08-15-at-23-58-43-Home-thumbnail.png" height="2026" width="768" alt="Home" >
+      </a>
+      <figcaption>Home</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/4/gallery/Screenshot-2023-08-15-at-23-59-06-Contact-Us.png" data-size="1366x852">
+        <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/4/gallery/Screenshot-2023-08-15-at-23-59-06-Contact-Us-thumbnail.png" height="479" width="768" alt="Contact" >
+      </a>
+      <figcaption>Contact</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/4/gallery/Screenshot-2023-08-15-at-23-59-16-Gallary.png" data-size="1366x1228">
+        <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/4/gallery/Screenshot-2023-08-15-at-23-59-16-Gallary-thumbnail.png" height="690" width="768" alt="Gallary" >
+      </a>
+      <figcaption>Gallary</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/4/gallery/Screenshot-2023-08-15-at-23-59-22-Courses.png" data-size="1366x3463">
+        <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/4/gallery/Screenshot-2023-08-15-at-23-59-22-Courses-thumbnail.png" height="1947" width="768" alt="Courses" >
+      </a>
+      <figcaption>Courses</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/4/gallery/Screenshot-2023-08-15-at-23-59-33-About-Us.png" data-size="1366x3020">
+        <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/4/gallery/Screenshot-2023-08-15-at-23-59-33-About-Us-thumbnail.png" height="1698" width="768" alt="About" >
+      </a>
+      <figcaption>About</figcaption>
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Shopify Theme Customization</title>
         <author>

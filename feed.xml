@@ -3,7 +3,7 @@
     <title>Osama</title>
     <link href="https://osama2kabdullah.github.io/personal_web_page/feed.xml" rel="self" />
     <link href="https://osama2kabdullah.github.io/personal_web_page" />
-    <updated>2023-09-25T21:24:10+06:00</updated>
+    <updated>2023-09-27T21:21:33+06:00</updated>
     <author>
         <name>Osama Abdullah</name>
     </author>
@@ -160,8 +160,9 @@
         <link href="https://osama2kabdullah.github.io/personal_web_page/custom-coding-for-multi-variant-selection-in-one-click-in-shopify.html"/>
         <id>https://osama2kabdullah.github.io/personal_web_page/custom-coding-for-multi-variant-selection-in-one-click-in-shopify.html</id>
         <media:content url="https://osama2kabdullah.github.io/personal_web_page/media/posts/6/Blue-Purple-Cream-Gradient-How-To-Start-A-Successful-Blog-YouTube-Thumbnail-2.png" medium="image" />
+            <category term="Project"/>
 
-        <updated>2023-09-16T02:39:43+06:00</updated>
+        <updated>2023-09-27T21:21:33+06:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -253,33 +254,6 @@
     </figure>
     </div>
   </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Shopify Theme Customization</title>
-        <author>
-            <name>Osama Abdullah</name>
-        </author>
-        <link href="https://osama2kabdullah.github.io/personal_web_page/shopify-theme-customization.html"/>
-        <id>https://osama2kabdullah.github.io/personal_web_page/shopify-theme-customization.html</id>
-        <media:content url="https://osama2kabdullah.github.io/personal_web_page/media/posts/3/storm-1.webp" medium="image" />
-            <category term="Project"/>
-
-        <updated>2023-07-20T19:12:36+06:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://osama2kabdullah.github.io/personal_web_page/media/posts/3/storm-1.webp" alt="" />
-                    I customizae a shopify theme
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://osama2kabdullah.github.io/personal_web_page/media/posts/3/storm-1.webp" class="type:primaryImage" alt="" /></p>
-                
-  <p>
-    I customizae a shopify theme
-  </p>
             ]]>
         </content>
     </entry>

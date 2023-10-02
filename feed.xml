@@ -3,35 +3,32 @@
     <title>Osama</title>
     <link href="https://osama2kabdullah.github.io/personal_web_page/feed.xml" rel="self" />
     <link href="https://osama2kabdullah.github.io/personal_web_page" />
-    <updated>2023-09-27T21:21:33+06:00</updated>
+    <updated>2023-10-02T20:43:05+06:00</updated>
     <author>
-        <name>Osama Abdullah</name>
+        <name>Md. Abdullah</name>
     </author>
     <id>https://osama2kabdullah.github.io/personal_web_page</id>
 
     <entry>
         <title>Make Open Search bar in Shopify Dawn 11.0.0 theme</title>
         <author>
-            <name>Osama Abdullah</name>
+            <name>Md. Abdullah</name>
         </author>
         <link href="https://osama2kabdullah.github.io/personal_web_page/make-open-search-bar-in-shopify-dawn-1100-theme.html"/>
         <id>https://osama2kabdullah.github.io/personal_web_page/make-open-search-bar-in-shopify-dawn-1100-theme.html</id>
-        <media:content url="https://osama2kabdullah.github.io/personal_web_page/media/posts/7/search-bar-dawn-2.png" medium="image" />
             <category term="Blog"/>
 
-        <updated>2023-09-25T21:21:43+06:00</updated>
+        <updated>2023-10-02T20:42:45+06:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://osama2kabdullah.github.io/personal_web_page/media/posts/7/search-bar-dawn-2.png" alt="" />
                     Desktop 1. Navigate to the header-search.liquid file. This file can be found in&nbsp;snippets folder. Then Paste this code in line&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://osama2kabdullah.github.io/personal_web_page/media/posts/7/search-bar-dawn-2.png" class="type:primaryImage" alt="" /></p>
                 
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="file:///home/osama/Documents/Publii/sites/osama/input/media/posts/temp/search-bar-dawn.png" height="281" width="1344" alt="desktop"  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="file:///home/osama/Documents/Publii/sites/osama/input/media/posts/temp/responsive/search-bar-dawn-xs.png 384w ,file:///home/osama/Documents/Publii/sites/osama/input/media/posts/temp/responsive/search-bar-dawn-sm.png 600w ,file:///home/osama/Documents/Publii/sites/osama/input/media/posts/temp/responsive/search-bar-dawn-md.png 768w ,file:///home/osama/Documents/Publii/sites/osama/input/media/posts/temp/responsive/search-bar-dawn-lg.png 1200w ,file:///home/osama/Documents/Publii/sites/osama/input/media/posts/temp/responsive/search-bar-dawn-xl.png 1600w">
+    <figure class="post__image post__image--wide">
+      <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/7/search-bar-dawn-2.png" height="281" width="1344" alt="desktop"  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://osama2kabdullah.github.io/personal_web_page/media/posts/7/responsive/search-bar-dawn-2-xs.png 384w ,https://osama2kabdullah.github.io/personal_web_page/media/posts/7/responsive/search-bar-dawn-2-sm.png 600w ,https://osama2kabdullah.github.io/personal_web_page/media/posts/7/responsive/search-bar-dawn-2-md.png 768w ,https://osama2kabdullah.github.io/personal_web_page/media/posts/7/responsive/search-bar-dawn-2-lg.png 1200w ,https://osama2kabdullah.github.io/personal_web_page/media/posts/7/responsive/search-bar-dawn-2-xl.png 1600w">
       <figcaption>Desktop</figcaption>
     </figure>
 
@@ -155,18 +152,16 @@
     <entry>
         <title>Custom Coding for Multi-Variant Selection in one click in Shopify</title>
         <author>
-            <name>Osama Abdullah</name>
+            <name>Md. Abdullah</name>
         </author>
         <link href="https://osama2kabdullah.github.io/personal_web_page/custom-coding-for-multi-variant-selection-in-one-click-in-shopify.html"/>
         <id>https://osama2kabdullah.github.io/personal_web_page/custom-coding-for-multi-variant-selection-in-one-click-in-shopify.html</id>
-        <media:content url="https://osama2kabdullah.github.io/personal_web_page/media/posts/6/Blue-Purple-Cream-Gradient-How-To-Start-A-Successful-Blog-YouTube-Thumbnail-2.png" medium="image" />
             <category term="Project"/>
 
-        <updated>2023-09-27T21:21:33+06:00</updated>
+        <updated>2023-10-02T20:43:05+06:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://osama2kabdullah.github.io/personal_web_page/media/posts/6/Blue-Purple-Cream-Gradient-How-To-Start-A-Successful-Blog-YouTube-Thumbnail-2.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
     
@@ -177,7 +172,7 @@
     <entry>
         <title>How I made 5k BDT using Chat GPT within only 5 hours</title>
         <author>
-            <name>Osama Abdullah</name>
+            <name>Md. Abdullah</name>
         </author>
         <link href="https://osama2kabdullah.github.io/personal_web_page/how-i-made-5k-bdt-using-chat-gpt-within-only-5-hours.html"/>
         <id>https://osama2kabdullah.github.io/personal_web_page/how-i-made-5k-bdt-using-chat-gpt-within-only-5-hours.html</id>
@@ -260,7 +255,7 @@
     <entry>
         <title>How AI assist me when I feel sad: a conversation</title>
         <author>
-            <name>Osama Abdullah</name>
+            <name>Md. Abdullah</name>
         </author>
         <link href="https://osama2kabdullah.github.io/personal_web_page/how-ai-assist-me-when-i-feel-sad-a-conversation.html"/>
         <id>https://osama2kabdullah.github.io/personal_web_page/how-ai-assist-me-when-i-feel-sad-a-conversation.html</id>

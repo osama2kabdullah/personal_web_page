@@ -3,204 +3,312 @@
     <title>Osama</title>
     <link href="https://osama2kabdullah.github.io/personal_web_page/feed.xml" rel="self" />
     <link href="https://osama2kabdullah.github.io/personal_web_page" />
-    <updated>2023-10-02T20:43:05+06:00</updated>
+    <updated>2023-11-23T20:02:25+06:00</updated>
     <author>
         <name>Md. Abdullah</name>
     </author>
     <id>https://osama2kabdullah.github.io/personal_web_page</id>
 
     <entry>
-        <title>Make Open Search bar in Shopify Dawn 11.0.0 theme</title>
+        <title>Custom Product Bundling Shopify</title>
         <author>
             <name>Md. Abdullah</name>
         </author>
-        <link href="https://osama2kabdullah.github.io/personal_web_page/make-open-search-bar-in-shopify-dawn-1100-theme.html"/>
-        <id>https://osama2kabdullah.github.io/personal_web_page/make-open-search-bar-in-shopify-dawn-1100-theme.html</id>
-            <category term="Blog"/>
+        <link href="https://osama2kabdullah.github.io/personal_web_page/custom-product-sets-feature-shopify.html"/>
+        <id>https://osama2kabdullah.github.io/personal_web_page/custom-product-sets-feature-shopify.html</id>
 
-        <updated>2023-10-02T20:42:45+06:00</updated>
+        <updated>2023-11-23T20:02:25+06:00</updated>
             <summary>
                 <![CDATA[
-                    Desktop 1. Navigate to the header-search.liquid file. This file can be found in&nbsp;snippets folder. Then Paste this code in line&hellip;
+                    Introduction Recently, I successfully completed a Shopify theme project that involved implementing custom product options and bundling features. In this&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                
-    <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/7/search-bar-dawn-2.png" height="281" width="1344" alt="desktop"  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://osama2kabdullah.github.io/personal_web_page/media/posts/7/responsive/search-bar-dawn-2-xs.png 384w ,https://osama2kabdullah.github.io/personal_web_page/media/posts/7/responsive/search-bar-dawn-2-sm.png 600w ,https://osama2kabdullah.github.io/personal_web_page/media/posts/7/responsive/search-bar-dawn-2-md.png 768w ,https://osama2kabdullah.github.io/personal_web_page/media/posts/7/responsive/search-bar-dawn-2-lg.png 1200w ,https://osama2kabdullah.github.io/personal_web_page/media/posts/7/responsive/search-bar-dawn-2-xl.png 1600w">
-      <figcaption>Desktop</figcaption>
-    </figure>
+                <h4 id="introduction">Introduction</h4>
+<p>Recently, I successfully completed a Shopify theme project that involved implementing custom product options and bundling features. In this documentation, I will walk you through my approach to developing and integrating these features, detailing the steps taken to manage the intricacies of the program. I’ll also share insights into the challenges encountered, the errors faced, and the solutions applied to ensure a smooth and effective implementation. Let’s delve into the details of this project.</p>
+<h4 id="project-overview">Project Overview</h4>
+<p><strong>Objective:</strong>
+Our project’s primary aim is to add product bundling. To develop this, we introduced special product bundles known as “sets.” Each set comes with the option to add another product from our store. Within every set, customers are required to include a specific number of products, These required products are entirely free—customers only pay the set price. Moreover, customers can choose to add extra products to the set, but these come with a cost, though at a discounted rate. Customers can add the same product multiple times if they wish.</p>
+<h4 id="key-features">Key Features</h4>
+<ul>
+<li><strong>Product Sets:</strong> Making the special products, I use normal products with a special template.</li>
+<li><strong>Required Products:</strong> these products are the copy of all products in the store wxcept sets. It is shwoign after click add product in a drawer.</li>
+<li><strong>Optional Products:</strong> these are showing proccess also same. but this product is adding in the cart with a discount.</li>
+<li><strong>Display Bundle:</strong> sets product will show the requred added product or optiuonal product as it is properties. it is more like  bundling.</li>
+<li><strong>Drawer opening:</strong></li>
+</ul>
+<h2 id="implementation-overview">Implementation Overview</h2>
+<h3 id="technology-stack">Technology Stack</h3>
+<p>The custom product sets feature was implemented within the Shopify platform using a combination of Liquid (Shopify’s templating language), JavaScript, and Shopify’s API for backend functionality.</p>
+<h3 id="workflow">Workflow</h3>
+<ol>
+<li><p><strong>Product Configuration:</strong></p>
+<ul>
+<li>Sets and their associated products were configured in the Shopify admin.</li>
+<li>Required and optional products were linked to their respective sets.</li>
+</ul>
+</li>
+<li><p><strong>Cart Modification:</strong></p>
+<ul>
+<li>Custom logic was implemented to modify the cart dynamically based on the selected set and additional products.</li>
+</ul>
+</li>
+<li><p><strong>Discount Logic:</strong></p>
+<ul>
+<li>Special discount logic was applied to optional products, ensuring customers receive a percentage discount when adding them to the cart.</li>
+</ul>
+</li>
+<li><p><strong>Shipping Configuration:</strong></p>
+<ul>
+<li>Free shipping was enabled for all products within the sets.</li>
+</ul>
+</li>
+<li><p><strong>User Interface:</strong></p>
+<ul>
+<li>The user interface was updated to reflect the new set structure and provide a seamless shopping experience.</li>
+</ul>
+</li>
+</ol>
+<h2 id="challenges-faced">Challenges Faced</h2>
+<h3 id="challenge-1-dynamic-cart-modification">Challenge 1: Dynamic Cart Modification</h3>
+<ul>
+<li>Adapting the cart dynamically based on set selections and quantity proved to be a complex task.</li>
+</ul>
+<h3 id="challenge-2-discount-application">Challenge 2: Discount Application</h3>
+<ul>
+<li>Implementing the discount logic for optional products while ensuring non-discountability for required products required careful consideration.</li>
+</ul>
+<h3 id="challenge-3-user-experience">Challenge 3: User Experience</h3>
+<ul>
+<li>Balancing a user-friendly interface with the intricacies of the custom product sets feature presented challenges in terms of clarity and intuitiveness.</li>
+</ul>
+<h2 id="solutions">Solutions</h2>
+<h3 id="solution-1-custom-cart-logic">Solution 1: Custom Cart Logic</h3>
+<ul>
+<li>Developed a robust custom cart modification system that adjusts quantities and adds/removes items based on user selections.</li>
+</ul>
+<h3 id="solution-2-discount-management">Solution 2: Discount Management</h3>
+<ul>
+<li>Implemented a clear and efficient discount mechanism for optional products, ensuring accurate calculations and application.</li>
+</ul>
+<h3 id="solution-3-ui-enhancements">Solution 3: UI Enhancements</h3>
+<ul>
+<li>Refined the user interface to clearly communicate the set structure and guide customers through the selection process.</li>
+</ul>
+<h2 id="conclusion">Conclusion</h2>
+<p>In conclusion, the custom product sets feature enhances our Shopify store’s capabilities, offering customers a unique and flexible shopping experience. The challenges faced during implementation were overcome through strategic solutions, resulting in a seamless integration that aligns with our goal of providing a user-friendly and feature-rich online shopping platform.</p>
 
-  <ul>
-    <li>1. Navigate to the header-search.liquid file. This file can be found in&nbsp;snippets folder. Then Paste this code in line number 10.</li>
-  </ul>
-<pre class="line-numbers  language-html"><code>{% style %}
-  .header__search {
-    display: block !important;
-  }
-  .custom-search-bar {
-    display: none;
-  }
-  @media only screen and (min-width: 600px) {
-    .header__search {
-      display: none !important;
-    }
-    .custom-search-bar {
-      display: block;
-    }
-  }
-{% endstyle %}
-
-&lt;div class="custom-search-bar"&gt;
-  &lt;form action="{{ routes.search_url }}" method="get" role="search" class="search search-modal__form"&gt;
-    &lt;div class="field"&gt;
-      &lt;input
-        class="search__input field__input"
-        id="{{ input_id }}"
-        type="search"
-        name="q"
-        value="{{ search.terms | escape }}"
-        placeholder="{{ 'general.search.search' | t }}"
-        {%- if settings.predictive_search_enabled -%}
-          role="combobox"
-          aria-expanded="false"
-          aria-owns="predictive-search-results"
-          aria-controls="predictive-search-results"
-          aria-haspopup="listbox"
-          aria-autocomplete="list"
-          autocorrect="off"
-          autocomplete="off"
-          autocapitalize="off"
-          spellcheck="false"
-        {%- endif -%}
-      &gt;
-      &lt;label class="field__label" for="{{ input_id }}"&gt;{{ 'general.search.search' | t }}&lt;/label&gt;
-      &lt;input type="hidden" name="options[prefix]" value="last"&gt;
-      &lt;button
-        type="reset"
-        class="reset__button field__button{% if search.terms == blank %} hidden{% endif %}"
-        aria-label="{{ 'general.search.reset' | t }}"
-      &gt;
-        &lt;svg class="icon icon-close" aria-hidden="true" focusable="false"&gt;
-          &lt;use xlink:href="#icon-reset"&gt;
-        &lt;/svg&gt;
-      &lt;/button&gt;
-      &lt;button class="search__button field__button" aria-label="{{ 'general.search.search' | t }}"&gt;
-        &lt;svg class="icon icon-search" aria-hidden="true" focusable="false"&gt;
-          &lt;use href="#icon-search"&gt;
-        &lt;/svg&gt;
-      &lt;/button&gt;
-    &lt;/div&gt;
-
-    {%- if settings.predictive_search_enabled -%}
-      &lt;div class="predictive-search predictive-search--header" tabindex="-1" data-predictive-search&gt;
-        &lt;div class="predictive-search__loading-state"&gt;
-          &lt;svg
-            aria-hidden="true"
-            focusable="false"
-            class="spinner"
-            viewBox="0 0 66 66"
-            xmlns="http://www.w3.org/2000/svg"
-          &gt;
-            &lt;circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"&gt;&lt;/circle&gt;
-          &lt;/svg&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;span class="predictive-search-status visually-hidden" role="status" aria-hidden="true"&gt;&lt;/span&gt;
-    {%- endif -%}
-  &lt;/form&gt;
-&lt;/div&gt;</code></pre>
-
-  <ul>
-    <li>2. After That, navigate to the base.css file, that is inside&nbsp;assets folder. Go to line number 1738 and replace the line with this code -</li>
-  </ul>
-<pre class="line-numbers  language-html"><code>left: calc(var(--inputs-border-width) + 2rem);</code></pre>
-
-  <p class="align-center">
-    to
-  </p>
-<pre class="line-numbers  language-html"><code>left: 44px;</code></pre>
-
-  <ul>
-    <li>3. After that navigate to the line number 1757 in the same file. and replace this also -</li>
-  </ul>
-<pre class="line-numbers  language-html"><code>left: calc(var(--inputs-border-width) + 2rem);</code></pre>
-
-  <p class="align-center">
-    to
-  </p>
-<pre class="line-numbers  language-html"><code>left: 44px;</code></pre>
-
-  <ul>
-    <li>4. Now, Navigate to the component-search.css file, that can be also found in&nbsp;assets folder. And replace this in line number 6.&nbsp;</li>
-  </ul>
-<pre class="line-numbers  language-html"><code>right: var(--inputs-border-width);</code></pre>
-
-  <p class="align-center">
-    to
-  </p>
-<pre class="line-numbers  language-html"><code>left: var(--inputs-border-width);</code></pre>
-
-  <p>
-    Now, That is done.
-  </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Custom Coding for Multi-Variant Selection in one click in Shopify</title>
+        <title>Video Image Slider In Shopify</title>
         <author>
             <name>Md. Abdullah</name>
         </author>
-        <link href="https://osama2kabdullah.github.io/personal_web_page/custom-coding-for-multi-variant-selection-in-one-click-in-shopify.html"/>
-        <id>https://osama2kabdullah.github.io/personal_web_page/custom-coding-for-multi-variant-selection-in-one-click-in-shopify.html</id>
+        <link href="https://osama2kabdullah.github.io/personal_web_page/video-image-slider-in-shopify.html"/>
+        <id>https://osama2kabdullah.github.io/personal_web_page/video-image-slider-in-shopify.html</id>
             <category term="Project"/>
 
-        <updated>2023-10-02T20:43:05+06:00</updated>
-            <summary></summary>
+        <updated>2023-11-19T19:54:09+06:00</updated>
+            <summary>
+                <![CDATA[
+                    Preview Link Visit the preview link to see the Slider in action: https://osama-abdullah.myshopify.com/pages/slider To implement the Video Image Slider, you’ll&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                
-  <p>
-    
-  </p>
+                <h3 id="preview-link">Preview Link</h3>
+<p>Visit the preview link to see the Slider in action: <a href="https://osama-abdullah.myshopify.com/pages/slider">https://osama-abdullah.myshopify.com/pages/slider</a></p>
+<h3 id="dependency">Dependency</h3>
+<p>To implement the Video Image Slider, you’ll need the Splide Slider JavaScript Package. The guide assumes the use of the Dawn Theme, but this integration is possible with most themes.</p>
+<h3 id="integration-process">Integration Process</h3>
+<ol>
+<li><strong>Create the Slider File:</strong></li>
+</ol>
+<ul>
+<li>Begin by creating a file in the sections folder named <code>video-image-slider.liquid</code>.</li>
+<li>Add the provided code to this file.</li>
+</ul>
+<pre><code class="language-liquid">{{ &#39;splide.min.css&#39; | asset_url | stylesheet_tag }}
+
+&lt;section class=&quot;page-width&quot;&gt;
+  &lt;div class=&quot;splide&quot; role=&quot;group&quot; aria-label=&quot;Splide Basic HTML Example&quot;&gt;
+    &lt;div class=&quot;splide__track&quot;&gt;
+      &lt;ul class=&quot;splide__list&quot;&gt;
+        {% for block in section.blocks %}
+          {% case block.type %}
+            {% when &#39;video&#39; %}
+              {% assign video = block.settings.video %}
+              {% assign duration = video.duration | plus: 250 %}
+              &lt;li class=&quot;splide__slide single-slider&quot; data-splide-interval=&quot;{{ duration }}&quot;&gt;
+                {{
+                  video
+                  | video_tag:
+                    autoplay: true,
+                    loop: true,
+                    muted: true,
+                    controls: false,
+                    image_size: &#39;1024x&#39;,
+                    width: 1024,
+                    class: &#39;slider-video&#39;
+                }}
+              &lt;/li&gt;
+            {% when &#39;image&#39; %}
+              &lt;li class=&quot;splide__slide single-slider&quot; data-splide-interval=&quot;{{ block.settings.time | times: 1000 }}&quot;&gt;
+                {{ block.settings.image | image_url: width: 1024 | image_tag }}
+              &lt;/li&gt;
+          {% endcase %}
+        {% endfor %}
+      &lt;/ul&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;script src=&quot;{{ &#39;splide.min.js&#39; | asset_url }}&quot; defer=&quot;defer&quot;&gt;&lt;/script&gt;
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, function () {
+    const option = {
+      type: &#39;loop&#39;,
+      autoplay: &#39;playing&#39;,
+      drag: false,
+      classes: {
+        arrows: &#39;splide__arrows your-class-arrows&#39;,
+        arrow: &#39;splide__arrow your-class-arrow&#39;,
+        prev: &#39;splide__arrow--prev your-class-prev&#39;,
+        next: &#39;splide__arrow--next your-class-next-{{ section.id }}&#39;,
+        pagination: &#39;splide__pagination your-class-pagination&#39;,
+        page : &#39;splide__pagination__page your-class-page&#39;,
+      },
+    };
+    const splide = new Splide(&#39;.splide&#39;, option);
+    splide.mount();
+    document.querySelectorAll(&#39;.splide__arrow&#39;).forEach((el) =&gt; {
+      el.style.display = &#39;none&#39;;
+    });
+    document.querySelectorAll(&quot;.your-class-pagination&quot;).forEach((el) =&gt; {
+      el.style.display = &#39;none&#39;;
+    });
+  });
+&lt;/script&gt;
+
+{% schema %}
+{
+  &quot;name&quot;: &quot;Video Image Slider&quot;,
+  &quot;tag&quot;: &quot;section&quot;,
+  &quot;class&quot;: &quot;section&quot;,
+  &quot;disabled_on&quot;: {
+    &quot;groups&quot;: [&quot;header&quot;, &quot;footer&quot;]
+  },
+  &quot;settings&quot;: [],
+  &quot;blocks&quot;: [
+    {
+      &quot;type&quot;: &quot;video&quot;,
+      &quot;name&quot;: &quot;Video&quot;,
+      &quot;settings&quot;: [
+        {
+          &quot;type&quot;: &quot;video&quot;,
+          &quot;id&quot;: &quot;video&quot;,
+          &quot;label&quot;: &quot;Video&quot;
+        }
+      ]
+    },
+    {
+      &quot;type&quot;: &quot;image&quot;,
+      &quot;name&quot;: &quot;Image&quot;,
+      &quot;settings&quot;: [
+        {
+          &quot;type&quot;: &quot;image_picker&quot;,
+          &quot;id&quot;: &quot;image&quot;,
+          &quot;label&quot;: &quot;Image&quot;
+        },
+        {
+          &quot;type&quot;: &quot;number&quot;,
+          &quot;id&quot;: &quot;time&quot;,
+          &quot;label&quot;: &quot;Stay Time&quot;,
+          &quot;default&quot;: 2
+        }
+      ]
+    }
+  ],
+  &quot;presets&quot;: [{ &quot;name&quot;: &quot;Video Image Slider&quot; }]
+}
+{% endschema %}
+</code></pre>
+<ol start="2">
+<li><strong>Import Splide Slider Code:</strong></li>
+</ol>
+<ul>
+<li>Visit the <a href="https://github.com/Splidejs/splide">Splide GitHub repository</a>.</li>
+<li>Navigate to the <code>dist</code> folder, and within it, find the <code>js</code> and <code>css</code> folders.</li>
+<li>Download <code>splide.min.css</code> from the <code>css</code> folder and <code>splide.min.js</code> from the <code>js</code> folder.</li>
+<li>Place these files in your theme’s assets folder.</li>
+</ul>
+<ol start="3">
+<li><strong>Slider Customization:</strong></li>
+</ol>
+<ul>
+<li>With the integration complete, your Slider is ready for customization.</li>
+<li>Navigate to your Shopify customization settings.</li>
+<li>Add a new section and search for “video image slider.”</li>
+</ul>
+<ol start="4">
+<li><strong>Adding Content:</strong></li>
+</ol>
+<ul>
+<li>After adding the section, click on “Add Block” to include either videos or images according to your preference.</li>
+</ul>
+<h3 id="conclusion">Conclusion</h3>
+<p>Congratulations! You’ve successfully integrated the Video Image Slider into your Shopify theme. If you encounter any issues or have questions, feel free to reach out. Thank you for reading!</p>
+
             ]]>
         </content>
     </entry>
     <entry>
-        <title>How I made 5k BDT using Chat GPT within only 5 hours</title>
+        <title>HTML and CSS website made by AI</title>
         <author>
             <name>Md. Abdullah</name>
         </author>
-        <link href="https://osama2kabdullah.github.io/personal_web_page/how-i-made-5k-bdt-using-chat-gpt-within-only-5-hours.html"/>
-        <id>https://osama2kabdullah.github.io/personal_web_page/how-i-made-5k-bdt-using-chat-gpt-within-only-5-hours.html</id>
+        <link href="https://osama2kabdullah.github.io/personal_web_page/how-i-made-5k-bdt-using-chat-gpt-within-only-5-hours-2.html"/>
+        <id>https://osama2kabdullah.github.io/personal_web_page/how-i-made-5k-bdt-using-chat-gpt-within-only-5-hours-2.html</id>
             <category term="Blog"/>
 
-        <updated>2023-09-25T21:24:10+06:00</updated>
+        <updated>2023-11-19T20:18:07+06:00</updated>
             <summary>
                 <![CDATA[
-                    I am a Web developer. Recently I found a project from a University student. He was assigned to build a&hellip;
+                    Website Preview Link https://osama2kabdullah.github.io/web-architecture GitHub Code Link For those interested in exploring the project's codebase, you can find it on&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    I am a Web developer. Recently I found a project from a University student. He was assigned to build a simple website using HTML and CSS. So, after that he reach out to me, then I build the project for him. Basically he do a job, he do not manage enough time to complete this project. So, lets see how I complete the project using chat GPT. Here I give some screenshot of my chat history. Then I attached the final output of the project.
+    <b>Website Preview Link<br></b><a href="https://osama2kabdullah.github.io/web-architecture">https://osama2kabdullah.github.io/web-architecture</a>
+  </p>
+
+  <p>
+    <b>GitHub Code Link</b><br>For those interested in exploring the project's codebase, you can find it on GitHub: <a href="https://github.com/osama2kabdullah/web-architecture">GitHub Code Link</a><a href="https://github.com/osama2kabdullah/web-architecture"></a>
+  </p>
+
+  <p>
+    <b>Introduction</b><br>I am excited to share the successful completion of my recent project, leveraging the capabilities of Chat GPT. Below, I provide insights into the project journey, featuring key elements such as chat history screenshots and the final project output.
+  </p>
+
+  <p>
+    <b>Chat History Screenshots<br></b>To offer a glimpse into the project's development, here are two selected screenshots from the chat history:<br>
   </p>
 
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/4/gallery/Screenshot-2023-08-15-at-23-49-02-ChatGPT-2.png" data-size="274x602">
-        <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/4/gallery/Screenshot-2023-08-15-at-23-49-02-ChatGPT-2-thumbnail.png" height="602" width="274" alt="Starting" >
+      <a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-49-02-ChatGPT-2.png" data-size="274x602">
+        <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-49-02-ChatGPT-2-thumbnail.png" height="602" width="274" alt="Starting" >
       </a>
       <figcaption>Starting</figcaption>
     </figure><figure class="gallery__item">
-      <a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/4/gallery/Screenshot-2023-08-15-at-23-50-47-ChatGPT-2.png" data-size="264x609">
-        <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/4/gallery/Screenshot-2023-08-15-at-23-50-47-ChatGPT-2-thumbnail.png" height="609" width="264" alt="Repeatetive work" >
+      <a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-50-47-ChatGPT-2.png" data-size="264x609">
+        <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-50-47-ChatGPT-2-thumbnail.png" height="609" width="264" alt="Repeatetive work" >
       </a>
       <figcaption>Repeatetive work</figcaption>
     </figure>
@@ -208,70 +316,66 @@
   </div>
 
   <p>
-    In the above I attached two screenshot of chat history.
+    <b>Realizing the Power of AI</b><br>Post-project completion, I had an insightful realization – AI is not here to replace us; instead, it serves as a powerful tool to enhance productivity. Integrating AI, particularly Chat GPT, allowed me to complete tasks at a pace ten times faster. It has become an integral part of my daily routine, significantly boosting efficiency.<br>
   </p>
 
   <p>
-    After completing the project, I realise, AI not replace us. AI boost our productivity. Using&nbsp; AI, we can finish our task 10 times fast. Normally eaveryday I use AI for getting fast output.
-  </p>
-
-  <p>
-    Here is the final out put of the project.
+    <b>Final Project Output</b><br>Without further ado, here is the much-anticipated final output of the project:<br>
   </p>
 
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/4/gallery/Screenshot-2023-08-15-at-23-58-43-Home.png" data-size="1366x3604">
-        <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/4/gallery/Screenshot-2023-08-15-at-23-58-43-Home-thumbnail.png" height="2026" width="768" alt="Home" >
+      <a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-58-43-Home.png" data-size="1366x3604">
+        <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-58-43-Home-thumbnail.png" height="2026" width="768" alt="Home" >
       </a>
       <figcaption>Home</figcaption>
     </figure><figure class="gallery__item">
-      <a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/4/gallery/Screenshot-2023-08-15-at-23-59-06-Contact-Us.png" data-size="1366x852">
-        <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/4/gallery/Screenshot-2023-08-15-at-23-59-06-Contact-Us-thumbnail.png" height="479" width="768" alt="Contact" >
+      <a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-59-06-Contact-Us.png" data-size="1366x852">
+        <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-59-06-Contact-Us-thumbnail.png" height="479" width="768" alt="Contact" >
       </a>
       <figcaption>Contact</figcaption>
     </figure><figure class="gallery__item">
-      <a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/4/gallery/Screenshot-2023-08-15-at-23-59-16-Gallary.png" data-size="1366x1228">
-        <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/4/gallery/Screenshot-2023-08-15-at-23-59-16-Gallary-thumbnail.png" height="690" width="768" alt="Gallary" >
+      <a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-59-16-Gallary.png" data-size="1366x1228">
+        <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-59-16-Gallary-thumbnail.png" height="690" width="768" alt="Gallary" >
       </a>
       <figcaption>Gallary</figcaption>
     </figure><figure class="gallery__item">
-      <a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/4/gallery/Screenshot-2023-08-15-at-23-59-22-Courses.png" data-size="1366x3463">
-        <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/4/gallery/Screenshot-2023-08-15-at-23-59-22-Courses-thumbnail.png" height="1947" width="768" alt="Courses" >
+      <a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-59-22-Courses.png" data-size="1366x3463">
+        <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-59-22-Courses-thumbnail.png" height="1947" width="768" alt="Courses" >
       </a>
       <figcaption>Courses</figcaption>
     </figure><figure class="gallery__item">
-      <a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/4/gallery/Screenshot-2023-08-15-at-23-59-33-About-Us.png" data-size="1366x3020">
-        <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/4/gallery/Screenshot-2023-08-15-at-23-59-33-About-Us-thumbnail.png" height="1698" width="768" alt="About" >
+      <a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-59-33-About-Us.png" data-size="1366x3020">
+        <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-59-33-About-Us-thumbnail.png" height="1698" width="768" alt="About" >
       </a>
       <figcaption>About</figcaption>
     </figure>
     </div>
   </div>
+
+  <p>
+    <b>Conclusion<br></b>This project journey reinforced the symbiotic relationship between humans and AI. Rather than being a replacement, AI acts as a catalyst for productivity growth. If you have any inquiries or would like to delve deeper into this project's specifics, feel free to reach out.<br>
+  </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>How AI assist me when I feel sad: a conversation</title>
+        <title>Multi-Variant Quantity Inputs in Shopify</title>
         <author>
             <name>Md. Abdullah</name>
         </author>
-        <link href="https://osama2kabdullah.github.io/personal_web_page/how-ai-assist-me-when-i-feel-sad-a-conversation.html"/>
-        <id>https://osama2kabdullah.github.io/personal_web_page/how-ai-assist-me-when-i-feel-sad-a-conversation.html</id>
-            <category term="Blog"/>
+        <link href="https://osama2kabdullah.github.io/personal_web_page/custom-coding-for-multi-variant-selection-in-one-click-in-shopify.html"/>
+        <id>https://osama2kabdullah.github.io/personal_web_page/custom-coding-for-multi-variant-selection-in-one-click-in-shopify.html</id>
+            <category term="Project"/>
 
-        <updated>2023-07-20T19:09:35+06:00</updated>
-            <summary>
-                <![CDATA[
-                    Me: hey, how are going? ChatGPT: Hello! As an AI language model, I don't have feelings or emotions, but I'm&hellip;
-                ]]>
-            </summary>
+        <updated>2023-10-18T23:26:23+06:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    Me: hey, how are going?<br><br>ChatGPT: Hello! As an AI language model, I don't have feelings or emotions, but I'm functioning as intended and ready to assist you with any questions or tasks you may have. How can I help you today?<br><br>Me: I have facing a personal problem. I have a best friend who wss girl. In a yar ago, she got marrid. after marrid she never talk with me. I love her. In the past, me and she all the the time talking with phone call. Now, I missing her so much. I am crying for her. I trying to talk with her. but she ignore me. she alwase talk with her husband. how can I do now? I am so sad for that.<br><br>ChatGPT: I'm sorry to hear that you're going through a difficult time. It can be tough when relationships change, especially when it's someone you care about. Here are some steps you can take to help you cope with this situation:<br><br>    Accept the situation: It's important to acknowledge that your friend's priorities may have shifted since getting married. She may be busy with her new life, and that might mean that she doesn't have as much time for you as she used to. It can be hard to accept that things have changed, but it's a necessary step in moving forward.<br><br>    Communicate your feelings: It's okay to tell your friend how you feel, but make sure you do it in a respectful way. Let her know that you miss her and that you value your friendship. Be honest about your feelings, but also be prepared to listen to her perspective.<br><br>    Give her space: While it's important to communicate your feelings, it's also important to respect her boundaries. If she's not interested in talking to you right now, give her some space. It may be that she needs time to adjust to her new life, and that she'll come back to you when she's ready.<br><br>    Focus on yourself: While it's natural to miss your friend, it's important to focus on your own life as well. Take some time to do things that you enjoy, whether that's spending time with other friends, pursuing a hobby, or just taking some time for yourself. Remember that you are important too.<br><br>    Seek support: It can be helpful to talk to someone about how you're feeling, whether that's a trusted friend, family member, or a therapist. They can offer you support and guidance as you navigate this difficult situation.<br><br>I hope these suggestions are helpful to you. Remember that it's okay to feel sad, but also remember that you are strong and capable of getting through this.<br><br>Me: when I miss her, I just cry. and I am introvert person. I am introvert from my childhood. I cannot live without her. but she ignore me, becoz she dont want me. she just want to forget me. but I love her. when she getting married, I am trying to died. but I cannot this. now, I am not try to died, but how sad I am, that anyone cannot fill it. at this time, I am crying. she live in my local area. but I dont want to see her. becouse I love her. I have not enogh word, that I explain how sad I am.<br><br>ChatGPT: I understand that this is a very difficult and painful situation for you. It can be very hard to come to terms with the fact that someone you care about may not feel the same way about you. It's okay to feel sad and to cry - it's a natural way to express your emotions.<br><br>It's important to remember that you can't force someone to have feelings for you or to be your friend. As much as it hurts, you need to respect your friend's decision and give her space. It's okay to take time to grieve the loss of the friendship, but it's also important to start focusing on yourself and your own well-being.<br><br>If you're finding it difficult to cope with your feelings, it might be helpful to speak to a therapist or a counselor. They can offer you support and guidance on how to manage your emotions and work through your feelings of sadness and loss.<br><br>Remember that you are not alone, and that there are people who care about you and want to support you through this difficult time.
+    
   </p>
             ]]>
         </content>

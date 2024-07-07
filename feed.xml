@@ -1,26 +1,246 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Osama</title>
+    <title>Osama Abdullah</title>
     <link href="https://osama2kabdullah.github.io/personal_web_page/feed.xml" rel="self" />
     <link href="https://osama2kabdullah.github.io/personal_web_page" />
-    <updated>2023-11-23T20:02:25+06:00</updated>
+    <updated>2024-07-07T18:58:06+06:00</updated>
     <author>
-        <name>Md. Abdullah</name>
+        <name>Osama Abdullah</name>
     </author>
     <id>https://osama2kabdullah.github.io/personal_web_page</id>
 
     <entry>
-        <title>Custom Product Bundling Shopify</title>
+        <title>HTML and CSS website made by AI</title>
         <author>
-            <name>Md. Abdullah</name>
+            <name>Osama Abdullah</name>
         </author>
-        <link href="https://osama2kabdullah.github.io/personal_web_page/custom-product-sets-feature-shopify.html"/>
-        <id>https://osama2kabdullah.github.io/personal_web_page/custom-product-sets-feature-shopify.html</id>
+        <link href="https://osama2kabdullah.github.io/personal_web_page/html-and-css-website-made-by-ai.html"/>
+        <id>https://osama2kabdullah.github.io/personal_web_page/html-and-css-website-made-by-ai.html</id>
+            <category term="Blog"/>
 
-        <updated>2023-11-23T20:02:25+06:00</updated>
+        <updated>2024-07-07T18:44:13+06:00</updated>
             <summary>
                 <![CDATA[
-                    Introduction Recently, I successfully completed a Shopify theme project that involved implementing custom product options and bundling features. In this&hellip;
+                    Website Preview Link https://osama2kabdullah.github.io/web-architecture GitHub Code Link For those interested in exploring the project's codebase, you can find it on GitHub: GitHub Code Link Introduction I am excited to share the successful completion of my recent project, leveraging the capabilities of Chat GPT. Below, I provide&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Website Preview Link<br></strong><a href="https://osama2kabdullah.github.io/web-architecture">https://osama2kabdullah.github.io/web-architecture</a></p>
+<p><strong>GitHub Code Link</strong><br>For those interested in exploring the project's codebase, you can find it on GitHub: <a href="https://github.com/osama2kabdullah/web-architecture">GitHub Code Link</a><a href="https://github.com/osama2kabdullah/web-architecture"></a></p>
+<p><strong>Introduction</strong><br>I am excited to share the successful completion of my recent project, leveraging the capabilities of Chat GPT. Below, I provide insights into the project journey, featuring key elements such as chat history screenshots and the final project output.</p>
+<p><strong>Chat History Screenshots<br></strong>To offer a glimpse into the project's development, here are two selected screenshots from the chat history:</p>
+<div class="gallery-wrapper-wrapper"><div class="gallery">
+<div class="gallery" data-columns="3" data-pswp-uid="1">
+<figure class="gallery__item"><a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-49-02-ChatGPT-2.png" data-size="274x602"><figure class="is-loaded"><img  src="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-49-02-ChatGPT-2-thumbnail.png" alt="Starting" width="274" height="602" loading="lazy"></figure></a>
+<figcaption>Starting</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-50-47-ChatGPT-2.png" data-size="264x609"><figure class="is-loaded"><img  src="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-50-47-ChatGPT-2-thumbnail.png" alt="Repeatetive work" width="264" height="609" loading="lazy"></figure></a>
+<figcaption>Repeatetive work</figcaption>
+</figure>
+</div></div>
+</div>
+<p><strong>Realizing the Power of AI</strong><br>Post-project completion, I had an insightful realization – AI is not here to replace us; instead, it serves as a powerful tool to enhance productivity. Integrating AI, particularly Chat GPT, allowed me to complete tasks at a pace ten times faster. It has become an integral part of my daily routine, significantly boosting efficiency.</p>
+<p><strong>Final Project Output</strong><br>Without further ado, here is the much-anticipated final output of the project:</p>
+<div class="gallery-wrapper-wrapper"><div class="gallery">
+<div class="gallery" data-columns="3" data-pswp-uid="2">
+<figure class="gallery__item"><a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-58-43-Home.png" data-size="1366x3604"><figure class="is-loaded"><img  src="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-58-43-Home-thumbnail.png" alt="Home" width="768" height="2026" loading="lazy"></figure></a>
+<figcaption>Home</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-59-06-Contact-Us.png" data-size="1366x852"><figure class="is-loaded"><img  src="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-59-06-Contact-Us-thumbnail.png" alt="Contact" width="768" height="479" loading="lazy"></figure></a>
+<figcaption>Contact</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-59-16-Gallary.png" data-size="1366x1228"><figure class="is-loaded"><img  src="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-59-16-Gallary-thumbnail.png" alt="Gallary" width="768" height="690" loading="lazy"></figure></a>
+<figcaption>Gallary</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-59-22-Courses.png" data-size="1366x3463"><img src="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-59-22-Courses-thumbnail.png" alt="Courses" width="768" height="1947" loading="lazy"></a>
+<figcaption>Courses</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-59-33-About-Us.png" data-size="1366x3020"><img src="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-59-33-About-Us-thumbnail.png" alt="About" width="768" height="1698" loading="lazy"></a>
+<figcaption>About</figcaption>
+</figure>
+</div></div>
+</div>
+<p><strong>Conclusion<br></strong>This project journey reinforced the symbiotic relationship between humans and AI. Rather than being a replacement, AI acts as a catalyst for productivity growth. If you have any inquiries or would like to delve deeper into this project's specifics, feel free to reach out.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Video Image Slider In Shopify</title>
+        <author>
+            <name>Osama Abdullah</name>
+        </author>
+        <link href="https://osama2kabdullah.github.io/personal_web_page/video-image-slider-in-shopify.html"/>
+        <id>https://osama2kabdullah.github.io/personal_web_page/video-image-slider-in-shopify.html</id>
+            <category term="Project"/>
+
+        <updated>2024-07-07T18:43:33+06:00</updated>
+            <summary>
+                <![CDATA[
+                    Preview Link Visit the preview link to see the Slider in action: https://osama-abdullah.myshopify.com/pages/slider To implement the Video Image Slider, you’ll need the Splide Slider JavaScript Package. The guide assumes the use of the Dawn Theme, but this integration is possible with most themes. {{ 'splide.min.css' |&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3 id="preview-link">Preview Link</h3>
+<p>Visit the preview link to see the Slider in action: <a href="https://osama-abdullah.myshopify.com/pages/slider">https://osama-abdullah.myshopify.com/pages/slider</a></p>
+<h3 id="dependency">Dependency</h3>
+<p>To implement the Video Image Slider, you’ll need the Splide Slider JavaScript Package. The guide assumes the use of the Dawn Theme, but this integration is possible with most themes.</p>
+<h3 id="integration-process">Integration Process</h3>
+<ol>
+<li><strong>Create the Slider File:</strong></li>
+</ol>
+<ul>
+<li>Begin by creating a file in the sections folder named <code>video-image-slider.liquid</code>.</li>
+<li>Add the provided code to this file.</li>
+</ul>
+<pre><code class="language-liquid">{{ 'splide.min.css' | asset_url | stylesheet_tag }}
+
+&lt;section class="page-width"&gt;
+  &lt;div class="splide" role="group" aria-label="Splide Basic HTML Example"&gt;
+    &lt;div class="splide__track"&gt;
+      &lt;ul class="splide__list"&gt;
+        {% for block in section.blocks %}
+          {% case block.type %}
+            {% when 'video' %}
+              {% assign video = block.settings.video %}
+              {% assign duration = video.duration | plus: 250 %}
+              &lt;li class="splide__slide single-slider" data-splide-interval="{{ duration }}"&gt;
+                {{
+                  video
+                  | video_tag:
+                    autoplay: true,
+                    loop: true,
+                    muted: true,
+                    controls: false,
+                    image_size: '1024x',
+                    width: 1024,
+                    class: 'slider-video'
+                }}
+              &lt;/li&gt;
+            {% when 'image' %}
+              &lt;li class="splide__slide single-slider" data-splide-interval="{{ block.settings.time | times: 1000 }}"&gt;
+                {{ block.settings.image | image_url: width: 1024 | image_tag }}
+              &lt;/li&gt;
+          {% endcase %}
+        {% endfor %}
+      &lt;/ul&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;script src="{{ 'splide.min.js' | asset_url }}" defer="defer"&gt;&lt;/script&gt;
+&lt;script&gt;
+  document.addEventListener('DOMContentLoaded', function () {
+    const option = {
+      type: 'loop',
+      autoplay: 'playing',
+      drag: false,
+      classes: {
+        arrows: 'splide__arrows your-class-arrows',
+        arrow: 'splide__arrow your-class-arrow',
+        prev: 'splide__arrow--prev your-class-prev',
+        next: 'splide__arrow--next your-class-next-{{ section.id }}',
+        pagination: 'splide__pagination your-class-pagination',
+        page : 'splide__pagination__page your-class-page',
+      },
+    };
+    const splide = new Splide('.splide', option);
+    splide.mount();
+    document.querySelectorAll('.splide__arrow').forEach((el) =&gt; {
+      el.style.display = 'none';
+    });
+    document.querySelectorAll(".your-class-pagination").forEach((el) =&gt; {
+      el.style.display = 'none';
+    });
+  });
+&lt;/script&gt;
+
+{% schema %}
+{
+  "name": "Video Image Slider",
+  "tag": "section",
+  "class": "section",
+  "disabled_on": {
+    "groups": ["header", "footer"]
+  },
+  "settings": [],
+  "blocks": [
+    {
+      "type": "video",
+      "name": "Video",
+      "settings": [
+        {
+          "type": "video",
+          "id": "video",
+          "label": "Video"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "name": "Image",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
+        },
+        {
+          "type": "number",
+          "id": "time",
+          "label": "Stay Time",
+          "default": 2
+        }
+      ]
+    }
+  ],
+  "presets": [{ "name": "Video Image Slider" }]
+}
+{% endschema %}
+</code></pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"> </div>
+<ol start="2">
+<li><strong>Import Splide Slider Code:</strong></li>
+</ol>
+<ul>
+<li>Visit the <a href="https://github.com/Splidejs/splide">Splide GitHub repository</a>.</li>
+<li>Navigate to the <code>dist</code> folder, and within it, find the <code>js</code> and <code>css</code> folders.</li>
+<li>Download <code>splide.min.css</code> from the <code>css</code> folder and <code>splide.min.js</code> from the <code>js</code> folder.</li>
+<li>Place these files in your theme’s assets folder.</li>
+</ul>
+<ol start="3">
+<li><strong>Slider Customization:</strong></li>
+</ol>
+<ul>
+<li>With the integration complete, your Slider is ready for customization.</li>
+<li>Navigate to your Shopify customization settings.</li>
+<li>Add a new section and search for “video image slider.”</li>
+</ul>
+<ol start="4">
+<li><strong>Adding Content:</strong></li>
+</ol>
+<ul>
+<li>After adding the section, click on “Add Block” to include either videos or images according to your preference.</li>
+</ul>
+<h3 id="conclusion">Conclusion</h3>
+<p>Congratulations! You’ve successfully integrated the Video Image Slider into your Shopify theme. If you encounter any issues or have questions, feel free to reach out. Thank you for reading!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Custom Product Bundling Shopify</title>
+        <author>
+            <name>Osama Abdullah</name>
+        </author>
+        <link href="https://osama2kabdullah.github.io/personal_web_page/custom-product-bundling-shopify.html"/>
+        <id>https://osama2kabdullah.github.io/personal_web_page/custom-product-bundling-shopify.html</id>
+            <category term="Project"/>
+
+        <updated>2024-07-07T17:27:32+06:00</updated>
+            <summary>
+                <![CDATA[
+                    Introduction Recently, I successfully completed a Shopify theme project that involved implementing custom product options and bundling features. In this documentation, I will walk you through my approach to developing and integrating these features, detailing the steps taken to manage the intricacies of the program.
                 ]]>
             </summary>
         <content type="html">
@@ -28,43 +248,47 @@
                 <h4 id="introduction">Introduction</h4>
 <p>Recently, I successfully completed a Shopify theme project that involved implementing custom product options and bundling features. In this documentation, I will walk you through my approach to developing and integrating these features, detailing the steps taken to manage the intricacies of the program. I’ll also share insights into the challenges encountered, the errors faced, and the solutions applied to ensure a smooth and effective implementation. Let’s delve into the details of this project.</p>
 <h4 id="project-overview">Project Overview</h4>
-<p><strong>Objective:</strong>
-Our project’s primary aim is to add product bundling. To develop this, we introduced special product bundles known as “sets.” Each set comes with the option to add another product from our store. Within every set, customers are required to include a specific number of products, These required products are entirely free—customers only pay the set price. Moreover, customers can choose to add extra products to the set, but these come with a cost, though at a discounted rate. Customers can add the same product multiple times if they wish.</p>
+<p><strong>Objective:</strong> Our project’s primary aim is to add product bundling. To develop this, we introduced special product bundles known as “sets.” Each set comes with the option to add another product from our store. Within every set, customers are required to include a specific number of products, These required products are entirely free—customers only pay the set price. Moreover, customers can choose to add extra products to the set, but these come with a cost, though at a discounted rate. Customers can add the same product multiple times if they wish.</p>
 <h4 id="key-features">Key Features</h4>
 <ul>
-<li><strong>Product Sets:</strong> Making the special products, I use normal products with a special template.</li>
-<li><strong>Required Products:</strong> these products are the copy of all products in the store wxcept sets. It is shwoign after click add product in a drawer.</li>
-<li><strong>Optional Products:</strong> these are showing proccess also same. but this product is adding in the cart with a discount.</li>
-<li><strong>Display Bundle:</strong> sets product will show the requred added product or optiuonal product as it is properties. it is more like  bundling.</li>
+<li><strong>Product Sets:</strong> Making the special products, I use normal products with a special template.</li>
+<li><strong>Required Products:</strong> these products are the copy of all products in the store wxcept sets. It is shwoign after click add product in a drawer.</li>
+<li><strong>Optional Products:</strong> these are showing proccess also same. but this product is adding in the cart with a discount.</li>
+<li><strong>Display Bundle:</strong> sets product will show the requred added product or optiuonal product as it is properties. it is more like bundling.</li>
 <li><strong>Drawer opening:</strong></li>
 </ul>
-<h2 id="implementation-overview">Implementation Overview</h2>
+<h2 id="implementation-overview">Implementation Overview<br><br></h2>
 <h3 id="technology-stack">Technology Stack</h3>
 <p>The custom product sets feature was implemented within the Shopify platform using a combination of Liquid (Shopify’s templating language), JavaScript, and Shopify’s API for backend functionality.</p>
 <h3 id="workflow">Workflow</h3>
 <ol>
-<li><p><strong>Product Configuration:</strong></p>
+<li>
+<p><strong>Product Configuration:</strong></p>
 <ul>
 <li>Sets and their associated products were configured in the Shopify admin.</li>
 <li>Required and optional products were linked to their respective sets.</li>
 </ul>
 </li>
-<li><p><strong>Cart Modification:</strong></p>
+<li>
+<p><strong>Cart Modification:</strong></p>
 <ul>
 <li>Custom logic was implemented to modify the cart dynamically based on the selected set and additional products.</li>
 </ul>
 </li>
-<li><p><strong>Discount Logic:</strong></p>
+<li>
+<p><strong>Discount Logic:</strong></p>
 <ul>
 <li>Special discount logic was applied to optional products, ensuring customers receive a percentage discount when adding them to the cart.</li>
 </ul>
 </li>
-<li><p><strong>Shipping Configuration:</strong></p>
+<li>
+<p><strong>Shipping Configuration:</strong></p>
 <ul>
 <li>Free shipping was enabled for all products within the sets.</li>
 </ul>
 </li>
-<li><p><strong>User Interface:</strong></p>
+<li>
+<p><strong>User Interface:</strong></p>
 <ul>
 <li>The user interface was updated to reflect the new set structure and provide a seamless shopping experience.</li>
 </ul>
@@ -98,285 +322,6 @@ Our project’s primary aim is to add product bundling. To develop this, we intr
 </ul>
 <h2 id="conclusion">Conclusion</h2>
 <p>In conclusion, the custom product sets feature enhances our Shopify store’s capabilities, offering customers a unique and flexible shopping experience. The challenges faced during implementation were overcome through strategic solutions, resulting in a seamless integration that aligns with our goal of providing a user-friendly and feature-rich online shopping platform.</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Video Image Slider In Shopify</title>
-        <author>
-            <name>Md. Abdullah</name>
-        </author>
-        <link href="https://osama2kabdullah.github.io/personal_web_page/video-image-slider-in-shopify.html"/>
-        <id>https://osama2kabdullah.github.io/personal_web_page/video-image-slider-in-shopify.html</id>
-            <category term="Project"/>
-
-        <updated>2023-11-19T19:54:09+06:00</updated>
-            <summary>
-                <![CDATA[
-                    Preview Link Visit the preview link to see the Slider in action: https://osama-abdullah.myshopify.com/pages/slider To implement the Video Image Slider, you’ll&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h3 id="preview-link">Preview Link</h3>
-<p>Visit the preview link to see the Slider in action: <a href="https://osama-abdullah.myshopify.com/pages/slider">https://osama-abdullah.myshopify.com/pages/slider</a></p>
-<h3 id="dependency">Dependency</h3>
-<p>To implement the Video Image Slider, you’ll need the Splide Slider JavaScript Package. The guide assumes the use of the Dawn Theme, but this integration is possible with most themes.</p>
-<h3 id="integration-process">Integration Process</h3>
-<ol>
-<li><strong>Create the Slider File:</strong></li>
-</ol>
-<ul>
-<li>Begin by creating a file in the sections folder named <code>video-image-slider.liquid</code>.</li>
-<li>Add the provided code to this file.</li>
-</ul>
-<pre><code class="language-liquid">{{ &#39;splide.min.css&#39; | asset_url | stylesheet_tag }}
-
-&lt;section class=&quot;page-width&quot;&gt;
-  &lt;div class=&quot;splide&quot; role=&quot;group&quot; aria-label=&quot;Splide Basic HTML Example&quot;&gt;
-    &lt;div class=&quot;splide__track&quot;&gt;
-      &lt;ul class=&quot;splide__list&quot;&gt;
-        {% for block in section.blocks %}
-          {% case block.type %}
-            {% when &#39;video&#39; %}
-              {% assign video = block.settings.video %}
-              {% assign duration = video.duration | plus: 250 %}
-              &lt;li class=&quot;splide__slide single-slider&quot; data-splide-interval=&quot;{{ duration }}&quot;&gt;
-                {{
-                  video
-                  | video_tag:
-                    autoplay: true,
-                    loop: true,
-                    muted: true,
-                    controls: false,
-                    image_size: &#39;1024x&#39;,
-                    width: 1024,
-                    class: &#39;slider-video&#39;
-                }}
-              &lt;/li&gt;
-            {% when &#39;image&#39; %}
-              &lt;li class=&quot;splide__slide single-slider&quot; data-splide-interval=&quot;{{ block.settings.time | times: 1000 }}&quot;&gt;
-                {{ block.settings.image | image_url: width: 1024 | image_tag }}
-              &lt;/li&gt;
-          {% endcase %}
-        {% endfor %}
-      &lt;/ul&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/section&gt;
-
-&lt;script src=&quot;{{ &#39;splide.min.js&#39; | asset_url }}&quot; defer=&quot;defer&quot;&gt;&lt;/script&gt;
-&lt;script&gt;
-  document.addEventListener(&#39;DOMContentLoaded&#39;, function () {
-    const option = {
-      type: &#39;loop&#39;,
-      autoplay: &#39;playing&#39;,
-      drag: false,
-      classes: {
-        arrows: &#39;splide__arrows your-class-arrows&#39;,
-        arrow: &#39;splide__arrow your-class-arrow&#39;,
-        prev: &#39;splide__arrow--prev your-class-prev&#39;,
-        next: &#39;splide__arrow--next your-class-next-{{ section.id }}&#39;,
-        pagination: &#39;splide__pagination your-class-pagination&#39;,
-        page : &#39;splide__pagination__page your-class-page&#39;,
-      },
-    };
-    const splide = new Splide(&#39;.splide&#39;, option);
-    splide.mount();
-    document.querySelectorAll(&#39;.splide__arrow&#39;).forEach((el) =&gt; {
-      el.style.display = &#39;none&#39;;
-    });
-    document.querySelectorAll(&quot;.your-class-pagination&quot;).forEach((el) =&gt; {
-      el.style.display = &#39;none&#39;;
-    });
-  });
-&lt;/script&gt;
-
-{% schema %}
-{
-  &quot;name&quot;: &quot;Video Image Slider&quot;,
-  &quot;tag&quot;: &quot;section&quot;,
-  &quot;class&quot;: &quot;section&quot;,
-  &quot;disabled_on&quot;: {
-    &quot;groups&quot;: [&quot;header&quot;, &quot;footer&quot;]
-  },
-  &quot;settings&quot;: [],
-  &quot;blocks&quot;: [
-    {
-      &quot;type&quot;: &quot;video&quot;,
-      &quot;name&quot;: &quot;Video&quot;,
-      &quot;settings&quot;: [
-        {
-          &quot;type&quot;: &quot;video&quot;,
-          &quot;id&quot;: &quot;video&quot;,
-          &quot;label&quot;: &quot;Video&quot;
-        }
-      ]
-    },
-    {
-      &quot;type&quot;: &quot;image&quot;,
-      &quot;name&quot;: &quot;Image&quot;,
-      &quot;settings&quot;: [
-        {
-          &quot;type&quot;: &quot;image_picker&quot;,
-          &quot;id&quot;: &quot;image&quot;,
-          &quot;label&quot;: &quot;Image&quot;
-        },
-        {
-          &quot;type&quot;: &quot;number&quot;,
-          &quot;id&quot;: &quot;time&quot;,
-          &quot;label&quot;: &quot;Stay Time&quot;,
-          &quot;default&quot;: 2
-        }
-      ]
-    }
-  ],
-  &quot;presets&quot;: [{ &quot;name&quot;: &quot;Video Image Slider&quot; }]
-}
-{% endschema %}
-</code></pre>
-<ol start="2">
-<li><strong>Import Splide Slider Code:</strong></li>
-</ol>
-<ul>
-<li>Visit the <a href="https://github.com/Splidejs/splide">Splide GitHub repository</a>.</li>
-<li>Navigate to the <code>dist</code> folder, and within it, find the <code>js</code> and <code>css</code> folders.</li>
-<li>Download <code>splide.min.css</code> from the <code>css</code> folder and <code>splide.min.js</code> from the <code>js</code> folder.</li>
-<li>Place these files in your theme’s assets folder.</li>
-</ul>
-<ol start="3">
-<li><strong>Slider Customization:</strong></li>
-</ol>
-<ul>
-<li>With the integration complete, your Slider is ready for customization.</li>
-<li>Navigate to your Shopify customization settings.</li>
-<li>Add a new section and search for “video image slider.”</li>
-</ul>
-<ol start="4">
-<li><strong>Adding Content:</strong></li>
-</ol>
-<ul>
-<li>After adding the section, click on “Add Block” to include either videos or images according to your preference.</li>
-</ul>
-<h3 id="conclusion">Conclusion</h3>
-<p>Congratulations! You’ve successfully integrated the Video Image Slider into your Shopify theme. If you encounter any issues or have questions, feel free to reach out. Thank you for reading!</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>HTML and CSS website made by AI</title>
-        <author>
-            <name>Md. Abdullah</name>
-        </author>
-        <link href="https://osama2kabdullah.github.io/personal_web_page/how-i-made-5k-bdt-using-chat-gpt-within-only-5-hours-2.html"/>
-        <id>https://osama2kabdullah.github.io/personal_web_page/how-i-made-5k-bdt-using-chat-gpt-within-only-5-hours-2.html</id>
-            <category term="Blog"/>
-
-        <updated>2023-11-19T20:18:07+06:00</updated>
-            <summary>
-                <![CDATA[
-                    Website Preview Link https://osama2kabdullah.github.io/web-architecture GitHub Code Link For those interested in exploring the project's codebase, you can find it on&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    <b>Website Preview Link<br></b><a href="https://osama2kabdullah.github.io/web-architecture">https://osama2kabdullah.github.io/web-architecture</a>
-  </p>
-
-  <p>
-    <b>GitHub Code Link</b><br>For those interested in exploring the project's codebase, you can find it on GitHub: <a href="https://github.com/osama2kabdullah/web-architecture">GitHub Code Link</a><a href="https://github.com/osama2kabdullah/web-architecture"></a>
-  </p>
-
-  <p>
-    <b>Introduction</b><br>I am excited to share the successful completion of my recent project, leveraging the capabilities of Chat GPT. Below, I provide insights into the project journey, featuring key elements such as chat history screenshots and the final project output.
-  </p>
-
-  <p>
-    <b>Chat History Screenshots<br></b>To offer a glimpse into the project's development, here are two selected screenshots from the chat history:<br>
-  </p>
-
-  <div  class="gallery-wrapper">
-    <div class="gallery" data-columns="3">
-      <figure class="gallery__item">
-      <a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-49-02-ChatGPT-2.png" data-size="274x602">
-        <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-49-02-ChatGPT-2-thumbnail.png" height="602" width="274" alt="Starting" >
-      </a>
-      <figcaption>Starting</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-50-47-ChatGPT-2.png" data-size="264x609">
-        <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-50-47-ChatGPT-2-thumbnail.png" height="609" width="264" alt="Repeatetive work" >
-      </a>
-      <figcaption>Repeatetive work</figcaption>
-    </figure>
-    </div>
-  </div>
-
-  <p>
-    <b>Realizing the Power of AI</b><br>Post-project completion, I had an insightful realization – AI is not here to replace us; instead, it serves as a powerful tool to enhance productivity. Integrating AI, particularly Chat GPT, allowed me to complete tasks at a pace ten times faster. It has become an integral part of my daily routine, significantly boosting efficiency.<br>
-  </p>
-
-  <p>
-    <b>Final Project Output</b><br>Without further ado, here is the much-anticipated final output of the project:<br>
-  </p>
-
-  <div  class="gallery-wrapper">
-    <div class="gallery" data-columns="3">
-      <figure class="gallery__item">
-      <a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-58-43-Home.png" data-size="1366x3604">
-        <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-58-43-Home-thumbnail.png" height="2026" width="768" alt="Home" >
-      </a>
-      <figcaption>Home</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-59-06-Contact-Us.png" data-size="1366x852">
-        <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-59-06-Contact-Us-thumbnail.png" height="479" width="768" alt="Contact" >
-      </a>
-      <figcaption>Contact</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-59-16-Gallary.png" data-size="1366x1228">
-        <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-59-16-Gallary-thumbnail.png" height="690" width="768" alt="Gallary" >
-      </a>
-      <figcaption>Gallary</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-59-22-Courses.png" data-size="1366x3463">
-        <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-59-22-Courses-thumbnail.png" height="1947" width="768" alt="Courses" >
-      </a>
-      <figcaption>Courses</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-59-33-About-Us.png" data-size="1366x3020">
-        <img loading="lazy" src="https://osama2kabdullah.github.io/personal_web_page/media/posts/10/gallery/Screenshot-2023-08-15-at-23-59-33-About-Us-thumbnail.png" height="1698" width="768" alt="About" >
-      </a>
-      <figcaption>About</figcaption>
-    </figure>
-    </div>
-  </div>
-
-  <p>
-    <b>Conclusion<br></b>This project journey reinforced the symbiotic relationship between humans and AI. Rather than being a replacement, AI acts as a catalyst for productivity growth. If you have any inquiries or would like to delve deeper into this project's specifics, feel free to reach out.<br>
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Multi-Variant Quantity Inputs in Shopify</title>
-        <author>
-            <name>Md. Abdullah</name>
-        </author>
-        <link href="https://osama2kabdullah.github.io/personal_web_page/custom-coding-for-multi-variant-selection-in-one-click-in-shopify.html"/>
-        <id>https://osama2kabdullah.github.io/personal_web_page/custom-coding-for-multi-variant-selection-in-one-click-in-shopify.html</id>
-            <category term="Project"/>
-
-        <updated>2023-10-18T23:26:23+06:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    
-  </p>
             ]]>
         </content>
     </entry>
